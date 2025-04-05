@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![StTsuki](https://img.shields.io/badge/StTsuki-github-blue?logo=github)](https://github.com/StTsuki)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+
+He is currently pursuing a Undergraduate Degree in Mathematics and Applied Mathematics, at Faculty of Science and Engineering, the University of Nottingham-Ningbo, China.
 
 #### Email
-sli[at]cumt.edu.cn
+3116921601[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.S., Mathematics and Applied Mathematics, the University of Nottingham-Ningbo, 2023—2027.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Data Science, Machine Learning, Quant.
 
